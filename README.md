@@ -2,6 +2,7 @@
 
 # Descrisão
  O sistema escolhido é o funcionamento de um cinema. O cinema possui várias salas e é necessário registrar informações sobre elas, como sua capacidade e número da sala. Desse modo, é criado várias sessões contendo os filmes com títulos, horários, datas e alguns com combos especiais. Nas sessões têm um certo número de ingressos que são vendidos conforme a capacidade da sala, as sessões podem ser normais,3D e IMAX.
+ A função do nosso sistema é controlar e administrar um cinema,  podendo ver quais são as sessões que ainda estão disponíveis, sendo que a cada ingresso vendido apareça quantos ainda estão disponíveis, quais os horários e datas de cada filme com os seus devidos títulos. O usuário também poderá escolher qual sessão ele quer, se a sessão é 3D, normal ou IMAX. E também, fornecerá o número da sala e quantidade de ingressos, assim será impresso o seus ingressos.
 
 # Especificação
  O principal objetivo é mostrar a parte de gerenciamento de sessões, junto com a   lanchonete do cinema. Dessa forma, pode-se adicionar sessões, selecionar uma delas para comprar ingressos, e remover uma caso seja necessário,além disso, tem opção de descrição da sala IMAX. E na lanchonete será feito o pedido do cliente. De modo geral, o sistema especifica a funcionalidade do funcionário no momento que ele também for atender um cliente.
