@@ -1,5 +1,4 @@
-# Projeto de POO para disciplina de Linguagem e Progrmação II
- A ideia do projeto é fazer um sistema para que um funcionário possa adicionar sessões de filems referentes ao números de salas. Além disso, é possivél a venda de ingresso de cada sessão escolhido pelo cliente. 
+# Projeto de POO para disciplina de Linguagem e Progrmação II 
 
 # Descrisão
  O sistema escolhido é o funcionamento de um cinema. O cinema possui várias salas e é necessário registrar informações sobre elas, como sua capacidade e número da sala. Desse modo, é criado várias sessões contendo os filmes com títulos, horários, datas e alguns com combos especiais. Nas sessões têm um certo número de ingressos que são vendidos conforme a capacidade da sala, as sessões podem ser normais,3D e IMAX.
