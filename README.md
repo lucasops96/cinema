@@ -1,5 +1,7 @@
 # Projeto de POO para disciplina de Linguagem e Progrmação II 
 
+[Vídeo mostrando o funcionamento do projeto Cinema](https://youtu.be/osIvq9rlvVo)
+
 # Descrisão
  O sistema escolhido é o funcionamento de um cinema. O cinema possui várias salas e é necessário registrar informações sobre elas, como sua capacidade e número da sala. Desse modo, é criado várias sessões contendo os filmes com títulos, horários, datas e alguns com combos especiais. Nas sessões têm um certo número de ingressos que são vendidos conforme a capacidade da sala, as sessões podem ser normais,3D e IMAX.
  A função do nosso sistema é controlar e administrar um cinema,  podendo ver quais são as sessões que ainda estão disponíveis, sendo que a cada ingresso vendido apareça quantos ainda estão disponíveis, quais os horários e datas de cada filme com os seus devidos títulos. O usuário também poderá escolher qual sessão ele quer, se a sessão é 3D, normal ou IMAX. E também, fornecerá o número da sala e quantidade de ingressos, assim será impresso o seus ingressos.
